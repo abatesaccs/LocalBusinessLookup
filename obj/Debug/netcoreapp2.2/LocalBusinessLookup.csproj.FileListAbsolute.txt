@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.csprojAssemblyReference.cache
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.AssemblyInfo.cs
+/Users/Guest/Desktop/LocalBusinessLookup/bin/Debug/netcoreapp2.2/LocalBusinessLookup.deps.json
+/Users/Guest/Desktop/LocalBusinessLookup/bin/Debug/netcoreapp2.2/LocalBusinessLookup.runtimeconfig.json
+/Users/Guest/Desktop/LocalBusinessLookup/bin/Debug/netcoreapp2.2/LocalBusinessLookup.runtimeconfig.dev.json
+/Users/Guest/Desktop/LocalBusinessLookup/bin/Debug/netcoreapp2.2/LocalBusinessLookup.dll
+/Users/Guest/Desktop/LocalBusinessLookup/bin/Debug/netcoreapp2.2/LocalBusinessLookup.pdb
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.dll
+/Users/Guest/Desktop/LocalBusinessLookup/obj/Debug/netcoreapp2.2/LocalBusinessLookup.pdb
