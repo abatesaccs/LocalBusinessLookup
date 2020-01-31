@@ -1,4 +1,4 @@
-namespace MessageBoard.Entities
+namespace LocalBusinessLookup.Entities
 {
     public class User
     {

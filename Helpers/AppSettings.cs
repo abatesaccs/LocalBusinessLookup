@@ -1,4 +1,4 @@
-namespace MessageBoard.Helpers
+namespace LocalBusinessLookup.Helpers
 {
     public class AppSettings
     {
