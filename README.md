@@ -17,14 +17,14 @@ The user will be able to call for:
 
 ## API Endpoints
 
-# - Businesses
+### - Businesses
 - GET /api/businesses
 - POST /api/businesses
 - GET /api/businesses/{id}
 - PUT /api/businesses/{id}
 - DELETE /api/businesses/{id}
 
-# - Users
+### - Users
 - POST /users/authenticate
 - GET /users
 
