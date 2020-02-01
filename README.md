@@ -15,6 +15,19 @@ The user will be able to call for:
   - Phone number 
   - Website
 
+## API Endpoints
+
+# - Businesses
+- GET /api/businesses
+- POST /api/businesses
+- GET /api/businesses/{id}
+- PUT /api/businesses/{id}
+- DELETE /api/businesses/{id}
+
+# - Users
+- POST /users/authenticate
+- GET /users
+
 ## Links:
 
 Github - https://github.com/LocalBusinessLookup
@@ -48,6 +61,7 @@ Github - https://github.com/LocalBusinessLookup
 * Entity
 * linq
 * JWT Authentication
+* Swagger UI
 
 ## License
 MIT License
