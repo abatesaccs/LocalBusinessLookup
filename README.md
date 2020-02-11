@@ -16,7 +16,6 @@ The user will be able to call for:
   - Website
 
 ## API Endpoints
-
 ### - Businesses
 - GET /api/businesses
 - POST /api/businesses
@@ -28,6 +27,7 @@ The user will be able to call for:
 - POST /users/authenticate
 - GET /users
 
+_note: to see endpoints with swagger, navagate to localhost:5000_
 ## Links:
 
 Github - https://github.com/LocalBusinessLookup
