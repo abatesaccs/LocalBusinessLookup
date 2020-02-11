@@ -49,6 +49,15 @@ Github - https://github.com/LocalBusinessLookup
   - $ dotnet ef migrations add initial
   - $ dotnet ef database update
 
+## Testing
+
+  - In postman, send a post request to http://localhost:5000/users/authenticate. In the body of the call, enter:
+
+        {
+          username: "test",
+          password: "test"
+        }
+
 ## Known Bugs
 
 * _No known bugs at this time_
