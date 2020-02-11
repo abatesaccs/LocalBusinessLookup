@@ -51,7 +51,7 @@ Github - https://github.com/LocalBusinessLookup
 
 ## Testing
 
-  - In postman, send a post request to http://localhost:5000/users/authenticate. In the body of the call, enter:
+  - In postman, send a post request to http://localhost:5000/users/authenticate. In the body of the call, in JSON format, enter:
 
         {
           username: "test",
